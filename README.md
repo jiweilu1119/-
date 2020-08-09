@@ -1,7 +1,7 @@
 
 # 主要功能
 ### Image Uploading	本地图片上传
-### Text Recognition 给予百度API图片文字识别	
+### Text Recognition 基于百度API图片文字识别	
   ·Connecting Baidu Character Recognition API	
   ·Getting and Presenting the Text	
 ### Text Machine Translation 调用百度API机器翻译	
